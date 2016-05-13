@@ -23,10 +23,12 @@ Pittsburgh Bureau of Police Zone 4 	| [@PghZone4](https://twitter.com/PghZone4) 
 ## Authorities
 Name 									| Twitter Handle 								| Notes
 -------									|------											|-----
+ALCOSAN | [@AlcosanWWTP](https://twitter.com/AlcosanWWTP) | Waste-water treatment agency for Pittsburgh and 80-some surrounding municipalities.
 Port Authority of Allegheny County		| [@PGHtransit](https://twitter.com/PGHtransit) | Not to be confused with satirical accounts [@PGHtransitSucks](https://twitter.com/PGHtransitSucks), [@FakePGHtransit](https://twitter.com/fakePGHtransit), or the 3rd Party Transit Info provider [@PGH_BUS_INFO](https://twitter.com/pgh_bus_info).
 Urban Redevelopment Authority			| [@urapgh](https://twitter.com/urapgh) 		| The official Twitter page for the Urban Redevelopment Authority of Pittsburgh, one of the first redevelopment authorities in Pennsylvania.
 Parking Authority						| No Twitter Account 							| 
 Housing Authority						| [@HACP1](https://twitter.com/HACP1) 			| The Housing Authority of the City of Pittsburgh is Pittsburgh's provider of quality, affordable housing; located at 200 Ross Street, Pittsburgh, PA 15219.
+Water & Sewer Authority | [@pgh2o](https://twitter.com/pgh2o) | Water & sewer services throughout the City of Pittsburgh. Twitter actively monitored Mon-Fri, 8am-6pm. After hrs call 412-255-2423.
 
 ## Elected Officials (city level)
 ### Individuals
@@ -46,6 +48,7 @@ Name | Twitter Handle | Notes
 ### Council Offices
 Name | Twitter Handle | Notes
 -------|------|-----
+Council Office for District 7     | [@PGHDistrict7](https://twitter.com/PGHDistrict7)  		| Office of [Councilwoman Deborah Gross](https://twitter.com/DebGrossPGH) 
 Council Office for District 8 		| [@PGHDistrict8](https://twitter.com/PGHDistrict8)  		| Currently [@DanielGilman](https://twitter.com/danielgilman).
 
 ## Appointed Officials // Staff
@@ -54,6 +57,7 @@ Name 											| Twitter Handle 										| Notes
 Laura Meixell, Analytics and Strategy Manager 	| [@lauratypes](https://twitter.com/lauratypes) 		| Point person with the City for all things Open Data. Works out of the [@PghIP](https://twitter.com/PghIP).
 Hersh Merenstein								| [@TheRealHershM](https://twitter.com/TheRealHershM)	| Legislative Assistant for Councilman  [@DanielGilman](https://twitter.com/DanielGilman).
 Dan Honan										| [@DanHonan1](https://twitter.com/DanHonan1)			| Detective, Major Crimes
+Frankie the Fish   | [@alcosan_frankie](https://twitter.com/alcosan_frankie)  | Official creepy fish mascot of [@AlcosanWWTP](https://twitter.com/AlcosanWWTP) (check out those abs!)
 
 ## Temporary // Durational
 Name 											| Twitter Handle 											| Notes
